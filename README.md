@@ -1,4 +1,4 @@
-صعفق # مستودع SVG
+# مستودع SVG
 
 مرحباً بك في مستودع SVG!
 
@@ -17,9 +17,9 @@
 يمكنك استخدام هذا المستودع لحفظ وإدارة ملفات SVG الخاصة بك.
 5462328
 Actelion Java MolfileCreator 2.0
-na#abdulrahman
+
   0  0  0  0  0  0              0 V3000
-M نت V30 BEGIN CTAB
+M  V30 BEGIN CTAB
 M  V30 COUNTS 27 31 0 0 0
 M  V30 BEGIN ATOM
 M  V30 1 O 14.7384 -5.9794 0 0
